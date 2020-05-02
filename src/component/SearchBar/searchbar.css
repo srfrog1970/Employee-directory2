@@ -1,0 +1,13 @@
+/* All css items should go here. */
+.searchBarRow {
+  background-color: rgba(233, 233, 232, 0.631);
+  text-align: center;
+  height: 70px;
+  margin-top: 0px;
+}
+
+.searchField {
+  width: 30%;
+  margin: auto;
+  display: block;
+}

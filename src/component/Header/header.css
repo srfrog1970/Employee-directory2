@@ -1,0 +1,9 @@
+/* All css items should go here. */
+.headerStyle {
+  background-color: rgb(15, 15, 54);
+  color: white;
+  border-bottom: 5px solid red;
+  height: 25vh;
+  text-align: center;
+  margin-bottom: 10px;
+}
