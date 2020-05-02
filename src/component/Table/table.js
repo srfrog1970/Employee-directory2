@@ -20,7 +20,7 @@ class Table extends Component {
     console.log("HERE!");
     return (
       <div>
-        Table.js New words
+        Table.js New words And here we go again!
         {/* <thead>
           <tr>
             <th>Image</th>

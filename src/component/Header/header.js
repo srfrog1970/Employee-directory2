@@ -7,8 +7,8 @@ function Header() {
     <Jumbotron className="headerStyle">
       <h1>Employee Directory</h1>
       <p>
-        Click on carrots to filter by heading or use the search box to narrow
-        your results.
+        Click on headers to sort or filter using the search box to narrow your
+        results.
       </p>
     </Jumbotron>
   );
